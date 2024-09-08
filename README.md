@@ -59,3 +59,18 @@
 ### Development Reward Address:
 
 - `TesBmcgLQsowvYEYPXpSHkkapoTbVV7Xfe`
+
+
+## Important Links for Telestai
+
+### Main Links:
+- [Telestai Main Page](https://www.telestai.io)
+- [Telestai Explorer](https://telestai.cryptoscope.io/)
+- [Telestai Discord](https://discord.gg/VmFXfHnZE5)
+
+### Mining & Development:
+- [Mining Telestai](https://www.telestai.io/mining)
+- [Ethereum Users: Telestai Guide](https://www.telestai.io/eth)
+- [Download Wallets](https://www.telestai.io/download)
+- [Whitepaper](https://www.telestai.io/whitepaper)
+- [Telestai Marketing & Engagement](https://www.telestai.io/marketing)
